@@ -1,0 +1,32 @@
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Servicio.dll.config
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Servicio.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Servicio.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Negocio.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Entidades.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\AccesoDatos.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Seguridad.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Negocio.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Entidades.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\AccesoDatos.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\bin\Seguridad.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\obj\Debug\Servicio.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Servicio\obj\Debug\Servicio.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Servicio.dll.config
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Servicio.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Servicio.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Negocio.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Entidades.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\AccesoDatos.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Seguridad.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Negocio.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Entidades.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\AccesoDatos.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\bin\Seguridad.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\obj\Debug\Servicio.csproj.CopyComplete
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\obj\Debug\Servicio.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Servicio\obj\Debug\Servicio.pdb

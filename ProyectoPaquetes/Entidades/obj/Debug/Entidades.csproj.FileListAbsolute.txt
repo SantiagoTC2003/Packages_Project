@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\bin\Debug\Entidades.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\obj\Debug\Entidades.dll
+C:\Users\admin\source\repos\ProyectoPaquetes\Entidades\obj\Debug\Entidades.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\bin\Debug\Entidades.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\bin\Debug\Entidades.pdb
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\obj\Debug\Entidades.dll
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Entidades\obj\Debug\Entidades.pdb

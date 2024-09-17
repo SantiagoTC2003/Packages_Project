@@ -1,0 +1,25 @@
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.CreacionCliente.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaCorreo.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Tienda.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaRuta.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaPaquete.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaCliente.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.MenuFuncionario.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.CreacionCliente.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaCorreo.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Tienda.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaRuta.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaPaquete.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.PantallaCliente.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Inicio.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.MenuFuncionario.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Proyecto 2 Santiago\ProyectoPaquetes\ProyectoPaquetes\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
